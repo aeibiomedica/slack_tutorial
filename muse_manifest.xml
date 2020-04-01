@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sandra-mozombite-shishco.github.io/slack-ibm" resolutions="1x" timestamp="1585757399734">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sandra-mozombite-shishco.github.io/slack-ibm" resolutions="1x" timestamp="1585766309712">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="528813053" ref="index"/>
@@ -6,11 +6,11 @@
     <file name="nomq_preview_master_a-master.css" crc="70119534" ref="integrate:empieza:index:unete:conoce-el-espacio"/>
     <file name="integrate.css" crc="4230616361" ref="integrate"/>
     <file name="nomq_integrate.css" crc="420243028" ref="integrate"/>
-    <file name="empieza.css" crc="3767877196" ref="empieza"/>
-    <file name="nomq_empieza.css" crc="470884437" ref="empieza"/>
+    <file name="empieza.css" crc="234152024" ref="empieza"/>
+    <file name="nomq_empieza.css" crc="4182707341" ref="empieza"/>
     <file name="nomq_index.css" crc="4124494313" ref="index"/>
-    <file name="unete.css" crc="371961766" ref="unete"/>
-    <file name="nomq_unete.css" crc="4293825738" ref="unete"/>
+    <file name="unete.css" crc="92605941" ref="unete"/>
+    <file name="nomq_unete.css" crc="399802889" ref="unete"/>
     <file name="conoce-el-espacio.css" crc="4230616361" ref="conoce-el-espacio"/>
     <file name="nomq_conoce-el-espacio.css" crc="420243028" ref="conoce-el-espacio"/>
   </folder>
@@ -53,6 +53,10 @@
     <file name="jquery.musemenu.js" crc="3784699396" ref="index:unete:empieza:conoce-el-espacio:integrate"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:unete:empieza:conoce-el-espacio:integrate"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index:unete:empieza:conoce-el-espacio:integrate"/>
+    <file name="webpro.js" crc="242022427" ref="empieza"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="empieza"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="empieza"/>
+    <file name="touchswipe.js" crc="4066113679" ref="empieza"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index:unete:empieza:conoce-el-espacio:integrate"/>
@@ -67,11 +71,6 @@
       <caption webpage="integrate" alt=""/>
       <caption webpage="integrate" alt=""/>
       <caption webpage="integrate" alt=""/>
-      <caption webpage="empieza" alt=""/>
-      <caption webpage="empieza" alt=""/>
-      <caption webpage="empieza" alt=""/>
-      <caption webpage="empieza" alt=""/>
-      <caption webpage="empieza" alt=""/>
       <caption webpage="unete" alt=""/>
       <caption webpage="unete" alt=""/>
       <caption webpage="unete" alt=""/>
@@ -82,8 +81,13 @@
       <caption webpage="conoce-el-espacio" alt=""/>
       <caption webpage="conoce-el-espacio" alt=""/>
       <caption webpage="conoce-el-espacio" alt=""/>
+      <caption webpage="empieza" alt=""/>
+      <caption webpage="empieza" alt=""/>
+      <caption webpage="empieza" alt=""/>
+      <caption webpage="empieza" alt=""/>
+      <caption webpage="empieza" alt=""/>
     </file>
-    <file name="aeib logo_poster_.png" crc="4238105558" ref="index"/>
+    <file name="aeib logo_poster_.png" crc="4238105558" ref="index:unete"/>
     <file name="messaging.svg" crc="3830149100" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -108,16 +112,16 @@
     </file>
     <file name="slack_poster_.png" crc="4146473077" ref="index"/>
     <file name="ibm-logo.svg" crc="4293298006" seo="true" ref="unete:empieza">
-      <caption webpage="unete" alt=""/>
-      <caption webpage="unete" alt=""/>
-      <caption webpage="unete" alt=""/>
-      <caption webpage="unete" alt=""/>
-      <caption webpage="unete" alt=""/>
       <caption webpage="empieza" alt=""/>
       <caption webpage="empieza" alt=""/>
       <caption webpage="empieza" alt=""/>
       <caption webpage="empieza" alt=""/>
       <caption webpage="empieza" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
     </file>
     <file name="ibm logo_poster_.png" crc="3966305656" ref="unete"/>
     <file name="mail-icon.svg" crc="3858154883" seo="true" ref="unete">
@@ -192,10 +196,131 @@
       <caption webpage="empieza" alt=""/>
     </file>
     <file name="stores_poster_.png" crc="3996782546" ref="empieza"/>
+    <file name="secuencia de confg-01321x673.png" crc="36455583" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-02321x673.png" crc="42491823" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-03321x674.png" crc="283870405" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-04321x673.png" crc="4097188968" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-05321x673.png" crc="4153303977" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-06321x673.png" crc="263801575" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-07321x674.png" crc="4142310615" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-08321x673.png" crc="4163888828" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="empieza"/>
+    <file name="secuencia de confg-01-crop-u4608.png" crc="3938690548" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-02-crop-u4878.png" crc="4088972960" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-03-crop-u4948.png" crc="131511959" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-04-crop-u5018.png" crc="3935936483" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-05-crop-u5088.png" crc="12626449" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-06-crop-u5158.png" crc="316914048" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-07-crop-u5228.png" crc="154313775" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-08-crop-u5298.png" crc="3936613005" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-01-crop-u46082.png" crc="3938690548" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-02-crop-u48782.png" crc="4088972960" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-03-crop-u49482.png" crc="131511959" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-04-crop-u50182.png" crc="3935936483" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-05-crop-u50882.png" crc="12626449" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-06-crop-u51582.png" crc="316914048" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-07-crop-u52282.png" crc="154313775" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-08-crop-u52982.png" crc="3936613005" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-01-crop-u46083.png" crc="3938690548" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-02-crop-u48783.png" crc="4088972960" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-03-crop-u49483.png" crc="131511959" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-04-crop-u50183.png" crc="3935936483" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-05-crop-u50883.png" crc="12626449" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-06-crop-u51583.png" crc="316914048" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-07-crop-u52283.png" crc="154313775" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-08-crop-u52983.png" crc="3936613005" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-01-crop-u46084.png" crc="3938690548" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-02-crop-u48784.png" crc="4088972960" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-03-crop-u49484.png" crc="131511959" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-04-crop-u50184.png" crc="3935936483" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-05-crop-u50884.png" crc="12626449" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-06-crop-u51584.png" crc="316914048" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-07-crop-u52284.png" crc="154313775" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="secuencia de confg-08-crop-u52984.png" crc="3936613005" seo="true" ref="empieza">
+      <caption webpage="empieza" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="526186796" seo="true" mt="1585757193076" redirect="true"/>
-  <file name="unete.html" crc="314817501" seo="true" mt="1585757053834" redirect="true"/>
-  <file name="empieza.html" crc="4211328115" seo="true" mt="1585757218022" redirect="true"/>
+  <file name="unete.html" crc="180975052" seo="true" mt="1585764013785" redirect="true"/>
+  <file name="empieza.html" crc="48702296" seo="true" mt="1585766260085" redirect="true"/>
   <file name="conoce-el-espacio.html" crc="366553086" seo="true" mt="1585751775703" redirect="true"/>
   <file name="integrate.html" crc="3758611736" seo="true" mt="1585751775703" redirect="true"/>
 </manifest>
