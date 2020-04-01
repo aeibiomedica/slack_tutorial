@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sandra-mozombite-shishco.github.io/slack-ibm" resolutions="1x" timestamp="1585766309712">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sandra-mozombite-shishco.github.io/slack-ibm" resolutions="1x" timestamp="1585768222930">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="528813053" ref="index"/>
+    <file name="index.css" crc="163923948" ref="index"/>
     <file name="master_a-master.css" crc="3806419012" ref="integrate:empieza:index:unete:conoce-el-espacio"/>
     <file name="nomq_preview_master_a-master.css" crc="70119534" ref="integrate:empieza:index:unete:conoce-el-espacio"/>
     <file name="integrate.css" crc="4230616361" ref="integrate"/>
@@ -9,8 +9,8 @@
     <file name="empieza.css" crc="234152024" ref="empieza"/>
     <file name="nomq_empieza.css" crc="4182707341" ref="empieza"/>
     <file name="nomq_index.css" crc="4124494313" ref="index"/>
-    <file name="unete.css" crc="92605941" ref="unete"/>
-    <file name="nomq_unete.css" crc="399802889" ref="unete"/>
+    <file name="unete.css" crc="523291436" ref="unete"/>
+    <file name="nomq_unete.css" crc="420802604" ref="unete"/>
     <file name="conoce-el-espacio.css" crc="4230616361" ref="conoce-el-espacio"/>
     <file name="nomq_conoce-el-espacio.css" crc="420243028" ref="conoce-el-espacio"/>
   </folder>
@@ -71,11 +71,6 @@
       <caption webpage="integrate" alt=""/>
       <caption webpage="integrate" alt=""/>
       <caption webpage="integrate" alt=""/>
-      <caption webpage="unete" alt=""/>
-      <caption webpage="unete" alt=""/>
-      <caption webpage="unete" alt=""/>
-      <caption webpage="unete" alt=""/>
-      <caption webpage="unete" alt=""/>
       <caption webpage="conoce-el-espacio" alt=""/>
       <caption webpage="conoce-el-espacio" alt=""/>
       <caption webpage="conoce-el-espacio" alt=""/>
@@ -86,8 +81,13 @@
       <caption webpage="empieza" alt=""/>
       <caption webpage="empieza" alt=""/>
       <caption webpage="empieza" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
     </file>
-    <file name="aeib logo_poster_.png" crc="4238105558" ref="index:unete"/>
+    <file name="aeib logo_poster_.png" crc="4238105558" ref="index"/>
     <file name="messaging.svg" crc="3830149100" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -103,25 +103,25 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="slack.svg" crc="174120038" seo="true" ref="index">
+    <file name="slack.svg" crc="301195178" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="slack_poster_.png" crc="4146473077" ref="index"/>
+    <file name="slack_poster_.png" crc="428248627" ref="index"/>
     <file name="ibm-logo.svg" crc="4293298006" seo="true" ref="unete:empieza">
-      <caption webpage="empieza" alt=""/>
-      <caption webpage="empieza" alt=""/>
-      <caption webpage="empieza" alt=""/>
-      <caption webpage="empieza" alt=""/>
-      <caption webpage="empieza" alt=""/>
       <caption webpage="unete" alt=""/>
       <caption webpage="unete" alt=""/>
       <caption webpage="unete" alt=""/>
       <caption webpage="unete" alt=""/>
       <caption webpage="unete" alt=""/>
+      <caption webpage="empieza" alt=""/>
+      <caption webpage="empieza" alt=""/>
+      <caption webpage="empieza" alt=""/>
+      <caption webpage="empieza" alt=""/>
+      <caption webpage="empieza" alt=""/>
     </file>
     <file name="ibm logo_poster_.png" crc="3966305656" ref="unete"/>
     <file name="mail-icon.svg" crc="3858154883" seo="true" ref="unete">
@@ -138,19 +138,9 @@
       <caption webpage="unete" alt=""/>
       <caption webpage="unete" alt=""/>
       <caption webpage="unete" alt=""/>
-      <caption webpage="unete" alt=""/>
-      <caption webpage="unete" alt=""/>
-      <caption webpage="unete" alt=""/>
-      <caption webpage="unete" alt=""/>
-      <caption webpage="unete" alt=""/>
     </file>
     <file name="texto unirse1_poster_.png" crc="4294873794" ref="unete"/>
     <file name="step1-illi@2x.png" crc="4024590275" seo="true" ref="unete">
-      <caption webpage="unete" alt=""/>
-      <caption webpage="unete" alt=""/>
-      <caption webpage="unete" alt=""/>
-      <caption webpage="unete" alt=""/>
-      <caption webpage="unete" alt=""/>
       <caption webpage="unete" alt=""/>
       <caption webpage="unete" alt=""/>
       <caption webpage="unete" alt=""/>
@@ -317,9 +307,25 @@
     <file name="secuencia de confg-08-crop-u52984.png" crc="3936613005" seo="true" ref="empieza">
       <caption webpage="empieza" alt=""/>
     </file>
+    <file name="texto-unirse3.svg" crc="232945162" seo="true" ref="unete">
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+    </file>
+    <file name="texto unirse3_poster_.png" crc="504815951" ref="unete"/>
+    <file name="slack-new-logo.svg" crc="261772372" seo="true" ref="unete">
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+    </file>
+    <file name="slack-new-logo_poster_.png" crc="488502573" ref="unete"/>
   </folder>
-  <file name="index.html" crc="526186796" seo="true" mt="1585757193076" redirect="true"/>
-  <file name="unete.html" crc="180975052" seo="true" mt="1585764013785" redirect="true"/>
+  <file name="index.html" crc="4200224832" seo="true" mt="1585768025833" redirect="true"/>
+  <file name="unete.html" crc="4217431130" seo="true" mt="1585768161586" redirect="true"/>
   <file name="empieza.html" crc="48702296" seo="true" mt="1585766260085" redirect="true"/>
   <file name="conoce-el-espacio.html" crc="366553086" seo="true" mt="1585751775703" redirect="true"/>
   <file name="integrate.html" crc="3758611736" seo="true" mt="1585751775703" redirect="true"/>
