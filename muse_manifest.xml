@@ -1,8 +1,18 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sandra-mozombite-shishco.github.io/slack-ibm" resolutions="1x" timestamp="1585706172897">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sandra-mozombite-shishco.github.io/slack-ibm" resolutions="1x" timestamp="1585752158109">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="283726811" ref="index"/>
-    <file name="parte-1.css" crc="3955724086" ref="parte-1"/>
+    <file name="index.css" crc="528813053" ref="index"/>
+    <file name="master_a-master.css" crc="3806419012" ref="integrate:empieza:index:unete:conoce-el-espacio"/>
+    <file name="nomq_preview_master_a-master.css" crc="70119534" ref="integrate:empieza:index:unete:conoce-el-espacio"/>
+    <file name="integrate.css" crc="4230616361" ref="integrate"/>
+    <file name="nomq_integrate.css" crc="420243028" ref="integrate"/>
+    <file name="empieza.css" crc="4230616361" ref="empieza"/>
+    <file name="nomq_empieza.css" crc="420243028" ref="empieza"/>
+    <file name="nomq_index.css" crc="4124494313" ref="index"/>
+    <file name="unete.css" crc="4120109745" ref="unete"/>
+    <file name="nomq_unete.css" crc="4259700894" ref="unete"/>
+    <file name="conoce-el-espacio.css" crc="4230616361" ref="conoce-el-espacio"/>
+    <file name="nomq_conoce-el-espacio.css" crc="420243028" ref="conoce-el-espacio"/>
   </folder>
   <folder name="fonts">
     <file name="montserrat-v14-latin-700italic.woff" crc="3937805812"/>
@@ -11,32 +21,142 @@
     <file name="hind-v10-latin-300.woff" crc="4119007384"/>
     <file name="hind-v10-latin-300.eot" crc="3939919718"/>
     <file name="hind-v10-latin-300.svg" crc="3822798006"/>
+    <file name="montserrat-v14-latin-300.woff" crc="3884218014"/>
+    <file name="montserrat-v14-latin-300.eot" crc="4003863165"/>
+    <file name="montserrat-v14-latin-300.svg" crc="253088661"/>
+    <file name="montserrat-v14-latin-regular.woff" crc="536514353"/>
+    <file name="montserrat-v14-latin-regular.eot" crc="166469600"/>
+    <file name="montserrat-v14-latin-regular.svg" crc="397917741"/>
+    <file name="montserrat-v14-latin-500.woff" crc="279531477"/>
+    <file name="montserrat-v14-latin-500.eot" crc="3997958611"/>
+    <file name="montserrat-v14-latin-500.svg" crc="133457014"/>
+    <file name="montserrat-v14-latin-600.woff" crc="418220706"/>
+    <file name="montserrat-v14-latin-600.eot" crc="439005784"/>
+    <file name="montserrat-v14-latin-600.svg" crc="246214576"/>
+    <file name="hind-v10-latin-regular.woff" crc="3991500026"/>
+    <file name="hind-v10-latin-regular.eot" crc="4006022429"/>
+    <file name="hind-v10-latin-regular.svg" crc="468976265"/>
+    <file name="montserrat-v14-latin-100.woff" crc="422723032"/>
+    <file name="montserrat-v14-latin-100.eot" crc="4032844288"/>
+    <file name="montserrat-v14-latin-100.svg" crc="313615194"/>
+    <file name="montserrat-v14-latin-700.woff" crc="285121586"/>
+    <file name="montserrat-v14-latin-700.eot" crc="4273711771"/>
+    <file name="montserrat-v14-latin-700.svg" crc="3797202461"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:parte-1"/>
-    <file name="museutils.js" crc="3803043152" ref="index:parte-1"/>
-    <file name="whatinput.js" crc="86476730" ref="index:parte-1"/>
-    <file name="museconfig.js" crc="380897831" ref="index:parte-1"/>
-    <file name="webpro.js" crc="242022427" ref="index"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:parte-1"/>
-    <file name="require.js" crc="4157109226" ref="index:parte-1"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:unete:empieza:conoce-el-espacio:integrate"/>
+    <file name="museutils.js" crc="3803043152" ref="index:unete:empieza:conoce-el-espacio:integrate"/>
+    <file name="whatinput.js" crc="86476730" ref="index:unete:empieza:conoce-el-espacio:integrate"/>
+    <file name="museconfig.js" crc="380897831" ref="index:unete:empieza:conoce-el-espacio:integrate"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:unete:empieza:conoce-el-espacio:integrate"/>
+    <file name="require.js" crc="4157109226" ref="index:unete:empieza:conoce-el-espacio:integrate"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:unete:empieza:conoce-el-espacio:integrate"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:unete:empieza:conoce-el-espacio:integrate"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:unete:empieza:conoce-el-espacio:integrate"/>
   </folder>
   <folder name="images">
-    <file name="larger_png by eric hoffman.jpg" crc="3956620127" seo="true" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index:unete:empieza:conoce-el-espacio:integrate"/>
+    <file name="aeib-logo.svg" crc="371001364" seo="true" ref="index:unete:empieza:conoce-el-espacio:integrate">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="conoce-el-espacio" alt=""/>
+      <caption webpage="conoce-el-espacio" alt=""/>
+      <caption webpage="conoce-el-espacio" alt=""/>
+      <caption webpage="conoce-el-espacio" alt=""/>
+      <caption webpage="conoce-el-espacio" alt=""/>
+      <caption webpage="empieza" alt=""/>
+      <caption webpage="empieza" alt=""/>
+      <caption webpage="empieza" alt=""/>
+      <caption webpage="empieza" alt=""/>
+      <caption webpage="empieza" alt=""/>
+    </file>
+    <file name="aeib logo_poster_.png" crc="4238105558" ref="index"/>
+    <file name="messaging.svg" crc="3830149100" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="larger_png by eric hoffman-crop-u112.jpg" crc="116012216" seo="true" ref="index">
+    <file name="messaging_poster_.png" crc="4019903600" ref="index"/>
+    <file name="logo slack.png" crc="518634982" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="vpn service concept-crop-u358.jpg" crc="476501391" seo="true" ref="index">
+    <file name="slack.svg" crc="174120038" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="slack_poster_.png" crc="4146473077" ref="index"/>
+    <file name="ibm-logo.svg" crc="4293298006" seo="true" ref="unete">
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+    </file>
+    <file name="ibm logo_poster_.png" crc="3966305656" ref="unete"/>
+    <file name="mail-icon.svg" crc="3858154883" seo="true" ref="unete">
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+    </file>
+    <file name="mail icon_poster_.png" crc="332541299" ref="unete"/>
+    <file name="texto-unirse1.svg" crc="4120319123" seo="true" ref="unete">
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+    </file>
+    <file name="texto unirse1_poster_.png" crc="4294873794" ref="unete"/>
+    <file name="step1-illi@2x.png" crc="4024590275" seo="true" ref="unete">
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+    </file>
+    <file name="invite-sent@2x.png" crc="211584018" seo="true" ref="unete">
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+    </file>
+    <file name="texto-unirse2.svg" crc="478025004" seo="true" ref="unete">
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+    </file>
+    <file name="texto unirse2_poster_.png" crc="386554274" ref="unete"/>
   </folder>
-  <file name="index.html" crc="4075484095" seo="true" mt="1585706104515" redirect="true"/>
-  <file name="parte-1.html" crc="3905084482" seo="true" mt="1585706152177" redirect="true"/>
+  <file name="index.html" crc="526186796" seo="true" mt="1585751775703" redirect="true"/>
+  <file name="unete.html" crc="57048435" seo="true" mt="1585751986252" redirect="true"/>
+  <file name="empieza.html" crc="492114972" seo="true" mt="1585751775703" redirect="true"/>
+  <file name="conoce-el-espacio.html" crc="366553086" seo="true" mt="1585751775703" redirect="true"/>
+  <file name="integrate.html" crc="3758611736" seo="true" mt="1585751775703" redirect="true"/>
 </manifest>

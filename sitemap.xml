@@ -2,23 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://sandra-mozombite-shishco.github.io/slack-ibm/index.html</loc>
-    <lastmod>2020-03-31</lastmod>
+    <lastmod>2020-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/larger_png%20by%20eric%20hoffman.jpg</image:loc>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/aeib-logo.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/larger_png%20by%20eric%20hoffman-crop-u112.jpg</image:loc>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/messaging.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/vpn%20service%20concept-crop-u358.jpg</image:loc>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/logo%20slack.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/slack.svg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://sandra-mozombite-shishco.github.io/slack-ibm/parte-1.html</loc>
-    <lastmod>2020-03-31</lastmod>
+    <loc>https://sandra-mozombite-shishco.github.io/slack-ibm/unete.html</loc>
+    <lastmod>2020-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/aeib-logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/ibm-logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/mail-icon.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/texto-unirse1.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/step1-illi@2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/invite-sent@2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/texto-unirse2.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sandra-mozombite-shishco.github.io/slack-ibm/empieza.html</loc>
+    <lastmod>2020-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/aeib-logo.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sandra-mozombite-shishco.github.io/slack-ibm/conoce-el-espacio.html</loc>
+    <lastmod>2020-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/aeib-logo.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://sandra-mozombite-shishco.github.io/slack-ibm/integrate.html</loc>
+    <lastmod>2020-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/aeib-logo.svg</image:loc>
+    </image:image>
   </url>
 </urlset>
