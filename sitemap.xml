@@ -59,6 +59,12 @@
     <image:image>
       <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/ibm-logo.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/devices.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/stores.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://sandra-mozombite-shishco.github.io/slack-ibm/conoce-el-espacio.html</loc>
