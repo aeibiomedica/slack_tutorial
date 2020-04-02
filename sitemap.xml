@@ -167,6 +167,9 @@
     <image:image>
       <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/menu.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/icon-recuerda-conoce.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://sandra-mozombite-shishco.github.io/slack-ibm/integrate.html</loc>
