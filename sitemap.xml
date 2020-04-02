@@ -12,10 +12,25 @@
       <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/messaging.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/logo%20slack.png</image:loc>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/slack.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/slack.svg</image:loc>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/logo%20slack-crop-u2160.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/logo%20slack-crop-u21602.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/menu.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/logo%20slack-crop-u21603.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/logo%20slack-crop-u21604.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/logo%20slack-crop-u21605.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -52,6 +67,9 @@
     </image:image>
     <image:image>
       <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/texto-unirse3_2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/menu.svg</image:loc>
     </image:image>
   </url>
   <url>
@@ -242,6 +260,9 @@
     <image:image>
       <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/secuencia%20de%20confg-17-crop-u115504.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/menu.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://sandra-mozombite-shishco.github.io/slack-ibm/conoce-el-espacio.html</loc>
@@ -275,6 +296,9 @@
     <image:image>
       <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/conoce-icons-3.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/menu.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://sandra-mozombite-shishco.github.io/slack-ibm/integrate.html</loc>
@@ -283,6 +307,9 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/aeib-logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/menu.svg</image:loc>
     </image:image>
   </url>
 </urlset>
