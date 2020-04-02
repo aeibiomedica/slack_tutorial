@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sandra-mozombite-shishco.github.io/slack-ibm" resolutions="1x" timestamp="1585850374188">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sandra-mozombite-shishco.github.io/slack-ibm" resolutions="1x" timestamp="1585850826077">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4111715558" ref="index"/>
@@ -11,8 +11,8 @@
     <file name="nomq_index.css" crc="4087477715" ref="index"/>
     <file name="unete.css" crc="4098015283" ref="unete"/>
     <file name="nomq_unete.css" crc="489254042" ref="unete"/>
-    <file name="conoce-el-espacio.css" crc="478215233" ref="conoce-el-espacio"/>
-    <file name="nomq_conoce-el-espacio.css" crc="4180881105" ref="conoce-el-espacio"/>
+    <file name="conoce-el-espacio.css" crc="370643498" ref="conoce-el-espacio"/>
+    <file name="nomq_conoce-el-espacio.css" crc="4239902052" ref="conoce-el-espacio"/>
   </folder>
   <folder name="fonts">
     <file name="montserrat-v14-latin-700italic.woff" crc="3937805812"/>
@@ -440,6 +440,6 @@
   <file name="index.html" crc="3965616613" seo="true" mt="1585848882107" redirect="true"/>
   <file name="unete.html" crc="432892136" seo="true" mt="1585848882107" redirect="true"/>
   <file name="empieza.html" crc="3843027075" seo="true" mt="1585848882107" redirect="true"/>
-  <file name="conoce-el-espacio.html" crc="316374207" seo="true" mt="1585850348433" redirect="true"/>
+  <file name="conoce-el-espacio.html" crc="519144593" seo="true" mt="1585850738895" redirect="true"/>
   <file name="integrate.html" crc="4262245259" seo="true" mt="1585848882107" redirect="true"/>
 </manifest>
