@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sandra-mozombite-shishco.github.io/slack-ibm" resolutions="1x" timestamp="1585794863354">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sandra-mozombite-shishco.github.io/slack-ibm" resolutions="1x" timestamp="1585798852436">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="197760452" ref="index"/>
-    <file name="master_a-master.css" crc="257935379" ref="integrate:empieza:index:unete:conoce-el-espacio"/>
-    <file name="nomq_preview_master_a-master.css" crc="200805009" ref="integrate:empieza:index:unete:conoce-el-espacio"/>
+    <file name="master_a-master.css" crc="190385035" ref="integrate:empieza:index:unete:conoce-el-espacio"/>
+    <file name="nomq_preview_master_a-master.css" crc="291615532" ref="integrate:empieza:index:unete:conoce-el-espacio"/>
     <file name="integrate.css" crc="3778918028" ref="integrate"/>
     <file name="nomq_integrate.css" crc="4045810038" ref="integrate"/>
     <file name="empieza.css" crc="29479760" ref="empieza"/>
     <file name="nomq_empieza.css" crc="4006423262" ref="empieza"/>
     <file name="nomq_index.css" crc="291538549" ref="index"/>
-    <file name="unete.css" crc="75309559" ref="unete"/>
-    <file name="nomq_unete.css" crc="4236990016" ref="unete"/>
+    <file name="unete.css" crc="238971430" ref="unete"/>
+    <file name="nomq_unete.css" crc="347001980" ref="unete"/>
     <file name="conoce-el-espacio.css" crc="3898320801" ref="conoce-el-espacio"/>
     <file name="nomq_conoce-el-espacio.css" crc="4246737582" ref="conoce-el-espacio"/>
   </folder>
@@ -510,9 +510,9 @@
     </file>
     <file name="logo ibm_poster_.png" crc="3966305656" ref="index"/>
   </folder>
-  <file name="index.html" crc="3759734935" seo="true" mt="1585794854239" redirect="true"/>
-  <file name="unete.html" crc="4163942000" seo="true" mt="1585794546435" redirect="true"/>
-  <file name="empieza.html" crc="4067973343" seo="true" mt="1585794546435" redirect="true"/>
-  <file name="conoce-el-espacio.html" crc="4082117424" seo="true" mt="1585794546435" redirect="true"/>
-  <file name="integrate.html" crc="3848372579" seo="true" mt="1585794546435" redirect="true"/>
+  <file name="index.html" crc="490008519" seo="true" mt="1585798783009" redirect="true"/>
+  <file name="unete.html" crc="21357981" seo="true" mt="1585798812484" redirect="true"/>
+  <file name="empieza.html" crc="4067973343" seo="true" mt="1585798783009" redirect="true"/>
+  <file name="conoce-el-espacio.html" crc="4082117424" seo="true" mt="1585798783009" redirect="true"/>
+  <file name="integrate.html" crc="3848372579" seo="true" mt="1585798783009" redirect="true"/>
 </manifest>
