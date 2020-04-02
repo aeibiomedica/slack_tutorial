@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sandra-mozombite-shishco.github.io/slack-ibm" resolutions="1x" timestamp="1585786791501">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sandra-mozombite-shishco.github.io/slack-ibm" resolutions="1x" timestamp="1585787295074">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4076257391" ref="index"/>
@@ -11,8 +11,8 @@
     <file name="nomq_index.css" crc="4124494313" ref="index"/>
     <file name="unete.css" crc="4152860698" ref="unete"/>
     <file name="nomq_unete.css" crc="330627969" ref="unete"/>
-    <file name="conoce-el-espacio.css" crc="3845998721" ref="conoce-el-espacio"/>
-    <file name="nomq_conoce-el-espacio.css" crc="3765630403" ref="conoce-el-espacio"/>
+    <file name="conoce-el-espacio.css" crc="138751131" ref="conoce-el-espacio"/>
+    <file name="nomq_conoce-el-espacio.css" crc="4285300646" ref="conoce-el-espacio"/>
   </folder>
   <folder name="fonts">
     <file name="montserrat-v14-latin-700italic.woff" crc="3937805812"/>
@@ -59,7 +59,7 @@
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:unete:empieza:conoce-el-espacio:integrate"/>
     <file name="museutils.js" crc="3803043152" ref="index:unete:empieza:conoce-el-espacio:integrate"/>
     <file name="whatinput.js" crc="86476730" ref="index:unete:empieza:conoce-el-espacio:integrate"/>
-    <file name="museconfig.js" crc="4173490262" ref="index:unete:empieza:conoce-el-espacio:integrate"/>
+    <file name="museconfig.js" crc="380897831" ref="index:unete:empieza:conoce-el-espacio:integrate"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:unete:empieza:conoce-el-espacio:integrate"/>
     <file name="require.js" crc="4157109226" ref="index:unete:empieza:conoce-el-espacio:integrate"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index:unete:empieza:conoce-el-espacio:integrate"/>
@@ -140,7 +140,7 @@
       <caption webpage="conoce-el-espacio" alt=""/>
       <caption webpage="conoce-el-espacio" alt=""/>
     </file>
-    <file name="ibm logo_poster_.png" crc="3966305656" ref="unete"/>
+    <file name="ibm logo_poster_.png" crc="3966305656" ref="unete:conoce-el-espacio"/>
     <file name="mail-icon.svg" crc="3858154883" seo="true" ref="unete">
       <caption webpage="unete" alt=""/>
       <caption webpage="unete" alt=""/>
@@ -489,11 +489,11 @@
       <caption webpage="conoce-el-espacio" alt=""/>
       <caption webpage="conoce-el-espacio" alt=""/>
     </file>
-    <file name="conoce icons 3_poster_.png" crc="3814224640" ref="conoce-el-espacio"/>
+    <file name="conoce icons 3_poster_.png" crc="3670703" ref="conoce-el-espacio"/>
   </folder>
-  <file name="index.html" crc="3780673066" seo="true" mt="1585786641274" redirect="true"/>
+  <file name="index.html" crc="403104292" seo="true" mt="1585787241014" redirect="true"/>
   <file name="unete.html" crc="178473984" seo="true" mt="1585786641274" redirect="true"/>
   <file name="empieza.html" crc="4247420204" seo="true" mt="1585786641274" redirect="true"/>
-  <file name="conoce-el-espacio.html" crc="3882837425" seo="true" mt="1585786779831" redirect="true"/>
+  <file name="conoce-el-espacio.html" crc="3942971404" seo="true" mt="1585787265697" redirect="true"/>
   <file name="integrate.html" crc="3778071537" seo="true" mt="1585786641274" redirect="true"/>
 </manifest>
