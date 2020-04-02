@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sandra-mozombite-shishco.github.io/slack-ibm" resolutions="1x" timestamp="1585798852436">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sandra-mozombite-shishco.github.io/slack-ibm" resolutions="1x" timestamp="1585799101719">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="197760452" ref="index"/>
+    <file name="index.css" crc="346566227" ref="index"/>
     <file name="master_a-master.css" crc="190385035" ref="integrate:empieza:index:unete:conoce-el-espacio"/>
     <file name="nomq_preview_master_a-master.css" crc="291615532" ref="integrate:empieza:index:unete:conoce-el-espacio"/>
     <file name="integrate.css" crc="3778918028" ref="integrate"/>
@@ -510,9 +510,9 @@
     </file>
     <file name="logo ibm_poster_.png" crc="3966305656" ref="index"/>
   </folder>
-  <file name="index.html" crc="490008519" seo="true" mt="1585798783009" redirect="true"/>
-  <file name="unete.html" crc="21357981" seo="true" mt="1585798812484" redirect="true"/>
-  <file name="empieza.html" crc="4067973343" seo="true" mt="1585798783009" redirect="true"/>
-  <file name="conoce-el-espacio.html" crc="4082117424" seo="true" mt="1585798783009" redirect="true"/>
-  <file name="integrate.html" crc="3848372579" seo="true" mt="1585798783009" redirect="true"/>
+  <file name="index.html" crc="10951561" seo="true" mt="1585799066093" redirect="true"/>
+  <file name="unete.html" crc="21357981" seo="true" mt="1585799065963" redirect="true"/>
+  <file name="empieza.html" crc="4067973343" seo="true" mt="1585799065963" redirect="true"/>
+  <file name="conoce-el-espacio.html" crc="4082117424" seo="true" mt="1585799065963" redirect="true"/>
+  <file name="integrate.html" crc="3848372579" seo="true" mt="1585799099104" redirect="true"/>
 </manifest>
