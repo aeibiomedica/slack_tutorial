@@ -251,6 +251,30 @@
     <image:image>
       <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/aeib-logo.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/ibm-logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/canal_abierto.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/conoce-icons-2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/canal_cerrado.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/conoce-icons-1.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/mensaje-directo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/cerrado-blanco.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://sandra-mozombite-shishco.github.io/slack-ibm/images/conoce-icons-3.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://sandra-mozombite-shishco.github.io/slack-ibm/integrate.html</loc>
