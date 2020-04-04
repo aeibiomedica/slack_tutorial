@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sandra-mozombite-shishco.github.io/slack-ibm" resolutions="1x" timestamp="1585874734035">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sandra-mozombite-shishco.github.io/slack-ibm" resolutions="1x" timestamp="1585981936393">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4111715558" ref="index"/>
-    <file name="master_a-master.css" crc="341262765" ref="integrate:empieza:index:unete:conoce-el-espacio"/>
-    <file name="nomq_preview_master_a-master.css" crc="4288930631" ref="integrate:empieza:index:unete:conoce-el-espacio"/>
-    <file name="integrate.css" crc="14453109" ref="integrate"/>
-    <file name="nomq_integrate.css" crc="4045810038" ref="integrate"/>
-    <file name="empieza.css" crc="528426908" ref="empieza"/>
-    <file name="nomq_empieza.css" crc="265071756" ref="empieza"/>
-    <file name="nomq_index.css" crc="4087477715" ref="index"/>
-    <file name="unete.css" crc="4098015283" ref="unete"/>
-    <file name="nomq_unete.css" crc="489254042" ref="unete"/>
-    <file name="conoce-el-espacio.css" crc="133680405" ref="conoce-el-espacio"/>
-    <file name="nomq_conoce-el-espacio.css" crc="534852073" ref="conoce-el-espacio"/>
+    <file name="index.css" crc="3871069437" ref="index"/>
+    <file name="master_a-master.css" crc="194085016" ref="integrate:empieza:index:unete:conoce-el-espacio"/>
+    <file name="nomq_preview_master_a-master.css" crc="4116870538" ref="integrate:empieza:index:unete:conoce-el-espacio"/>
+    <file name="integrate.css" crc="121869317" ref="integrate"/>
+    <file name="nomq_integrate.css" crc="4242932460" ref="integrate"/>
+    <file name="empieza.css" crc="3843442932" ref="empieza"/>
+    <file name="nomq_empieza.css" crc="4217925859" ref="empieza"/>
+    <file name="nomq_index.css" crc="4163023238" ref="index"/>
+    <file name="unete.css" crc="4083554277" ref="unete"/>
+    <file name="nomq_unete.css" crc="4283468512" ref="unete"/>
+    <file name="conoce-el-espacio.css" crc="4094787889" ref="conoce-el-espacio"/>
+    <file name="nomq_conoce-el-espacio.css" crc="171945735" ref="conoce-el-espacio"/>
   </folder>
   <folder name="fonts">
     <file name="montserrat-v14-latin-700italic.woff" crc="3937805812"/>
@@ -54,6 +54,9 @@
     <file name="montserrat-v14-latin-300italic.woff" crc="162273438"/>
     <file name="montserrat-v14-latin-300italic.eot" crc="3975612803"/>
     <file name="montserrat-v14-latin-300italic.svg" crc="4230404429"/>
+    <file name="hind-v10-latin-600.woff" crc="4020485479"/>
+    <file name="hind-v10-latin-600.eot" crc="529326150"/>
+    <file name="hind-v10-latin-600.svg" crc="3878735991"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:unete:empieza:conoce-el-espacio:integrate"/>
@@ -78,16 +81,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="conoce-el-espacio" alt=""/>
-      <caption webpage="conoce-el-espacio" alt=""/>
-      <caption webpage="conoce-el-espacio" alt=""/>
-      <caption webpage="conoce-el-espacio" alt=""/>
-      <caption webpage="conoce-el-espacio" alt=""/>
-      <caption webpage="unete" alt=""/>
-      <caption webpage="unete" alt=""/>
-      <caption webpage="unete" alt=""/>
-      <caption webpage="unete" alt=""/>
-      <caption webpage="unete" alt=""/>
       <caption webpage="integrate" alt=""/>
       <caption webpage="integrate" alt=""/>
       <caption webpage="integrate" alt=""/>
@@ -98,6 +91,16 @@
       <caption webpage="empieza" alt=""/>
       <caption webpage="empieza" alt=""/>
       <caption webpage="empieza" alt=""/>
+      <caption webpage="conoce-el-espacio" alt=""/>
+      <caption webpage="conoce-el-espacio" alt=""/>
+      <caption webpage="conoce-el-espacio" alt=""/>
+      <caption webpage="conoce-el-espacio" alt=""/>
+      <caption webpage="conoce-el-espacio" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
     </file>
     <file name="aeib logo_poster_.png" crc="4238105558" ref="index"/>
     <file name="messaging.svg" crc="3830149100" seo="true" ref="index">
@@ -116,7 +119,17 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="slack_poster_.png" crc="390448407" ref="index"/>
-    <file name="ibm-logo.svg" crc="4293298006" seo="true" ref="unete:empieza:conoce-el-espacio">
+    <file name="ibm-logo.svg" crc="4293298006" seo="true" ref="unete:empieza:conoce-el-espacio:integrate">
+      <caption webpage="empieza" alt=""/>
+      <caption webpage="empieza" alt=""/>
+      <caption webpage="empieza" alt=""/>
+      <caption webpage="empieza" alt=""/>
+      <caption webpage="empieza" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
       <caption webpage="unete" alt=""/>
       <caption webpage="unete" alt=""/>
       <caption webpage="unete" alt=""/>
@@ -127,13 +140,8 @@
       <caption webpage="conoce-el-espacio" alt=""/>
       <caption webpage="conoce-el-espacio" alt=""/>
       <caption webpage="conoce-el-espacio" alt=""/>
-      <caption webpage="empieza" alt=""/>
-      <caption webpage="empieza" alt=""/>
-      <caption webpage="empieza" alt=""/>
-      <caption webpage="empieza" alt=""/>
-      <caption webpage="empieza" alt=""/>
     </file>
-    <file name="ibm logo_poster_.png" crc="3966305656" ref="unete:conoce-el-espacio"/>
+    <file name="ibm logo_poster_.png" crc="3966305656" ref="unete"/>
     <file name="mail-icon.svg" crc="3858154883" seo="true" ref="unete">
       <caption webpage="unete" alt=""/>
       <caption webpage="unete" alt=""/>
@@ -295,7 +303,6 @@
       <caption webpage="conoce-el-espacio" alt=""/>
       <caption webpage="conoce-el-espacio" alt=""/>
       <caption webpage="conoce-el-espacio" alt=""/>
-      <caption webpage="conoce-el-espacio" alt=""/>
     </file>
     <file name="conoce icons 2_poster_.png" crc="448512525" ref="conoce-el-espacio"/>
     <file name="canal_cerrado.svg" crc="3951779620" seo="true" ref="conoce-el-espacio">
@@ -422,24 +429,212 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="empieza" alt=""/>
+      <caption webpage="empieza" alt=""/>
+      <caption webpage="empieza" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
       <caption webpage="conoce-el-espacio" alt=""/>
       <caption webpage="conoce-el-espacio" alt=""/>
       <caption webpage="conoce-el-espacio" alt=""/>
       <caption webpage="unete" alt=""/>
       <caption webpage="unete" alt=""/>
       <caption webpage="unete" alt=""/>
+    </file>
+    <file name="menu lineas negras_poster_.png" crc="35127084" ref="index"/>
+    <file name="icon-facebook.svg" crc="3965749504" seo="true" ref="index:unete:empieza:conoce-el-espacio:integrate">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="empieza" alt=""/>
       <caption webpage="empieza" alt=""/>
       <caption webpage="empieza" alt=""/>
+      <caption webpage="empieza" alt=""/>
+      <caption webpage="empieza" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="conoce-el-espacio" alt=""/>
+      <caption webpage="conoce-el-espacio" alt=""/>
+      <caption webpage="conoce-el-espacio" alt=""/>
+      <caption webpage="conoce-el-espacio" alt=""/>
+      <caption webpage="conoce-el-espacio" alt=""/>
+    </file>
+    <file name="icon-facebook_poster_.png" crc="463265434" ref="index"/>
+    <file name="icon-correo.svg" crc="4057731373" seo="true" ref="index:unete:empieza:conoce-el-espacio:integrate">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="empieza" alt=""/>
+      <caption webpage="empieza" alt=""/>
+      <caption webpage="empieza" alt=""/>
+      <caption webpage="empieza" alt=""/>
+      <caption webpage="empieza" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="unete" alt=""/>
+      <caption webpage="conoce-el-espacio" alt=""/>
+      <caption webpage="conoce-el-espacio" alt=""/>
+      <caption webpage="conoce-el-espacio" alt=""/>
+      <caption webpage="conoce-el-espacio" alt=""/>
+      <caption webpage="conoce-el-espacio" alt=""/>
+    </file>
+    <file name="icon-correo_poster_.png" crc="4240530182" ref="index"/>
+    <file name="senal menu.gif" crc="3830976872" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="illustration-4.svg" crc="370938500" seo="true" ref="integrate">
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
       <caption webpage="integrate" alt=""/>
       <caption webpage="integrate" alt=""/>
       <caption webpage="integrate" alt=""/>
     </file>
-    <file name="menu lineas negras_poster_.png" crc="35127084" ref="index"/>
+    <file name="illustration 4_poster_.png" crc="11840749" ref="integrate"/>
+    <file name="1480-hinf.svg" crc="356705917" seo="true" ref="integrate">
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+    </file>
+    <file name="1480 hinf_poster_.png" crc="3832258277" ref="integrate"/>
+    <file name="1480-hsup.svg" crc="434178174" seo="true" ref="integrate">
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+    </file>
+    <file name="1480 hsup_poster_.png" crc="4164126045" ref="integrate"/>
+    <file name="hilo.svg" crc="46641199" seo="true" ref="integrate">
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+    </file>
+    <file name="hilo_poster_.png" crc="3796088116" ref="integrate"/>
+    <file name="screenrecorder-2020-04-03-14-21-49-909.gif" crc="3924651171" seo="true" ref="integrate">
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+    </file>
+    <file name="inicia-hilo.svg" crc="267521297" seo="true" ref="integrate">
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+    </file>
+    <file name="inicia hilo_poster_.png" crc="4174898669" ref="integrate"/>
+    <file name="polly-icon.svg" crc="4076747625" seo="true" ref="integrate">
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+    </file>
+    <file name="polly icon_poster_.png" crc="172776372" ref="integrate"/>
+    <file name="zoom-icon.svg" crc="132709842" seo="true" ref="integrate">
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+    </file>
+    <file name="zoom icon_poster_.png" crc="11026777" ref="integrate"/>
+    <file name="google_calendar_icon.svg" crc="428544490" seo="true" ref="integrate">
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+    </file>
+    <file name="google_calendar_icon_poster_.png" crc="331766680" ref="integrate"/>
+    <file name="asana-icon.svg" crc="4043669938" seo="true" ref="integrate">
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+    </file>
+    <file name="asana icon_poster_.png" crc="138812050" ref="integrate"/>
+    <file name="google_drive_logo.svg" crc="4256702395" seo="true" ref="integrate">
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+    </file>
+    <file name="google_drive_logo_poster_.png" crc="4152015284" ref="integrate"/>
+    <file name="microsoft_office_onedrive_(2018–present).svg" crc="411626470" seo="true" ref="integrate">
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+    </file>
+    <file name="microsoft_office_onedrive_(2018–present)_poster_.png" crc="510426638" ref="integrate"/>
+    <file name="notion-icon.svg" crc="3780334596" seo="true" ref="integrate">
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+    </file>
+    <file name="notion icon_poster_.png" crc="477979433" ref="integrate"/>
+    <file name="giphy-icon.svg" crc="533723506" seo="true" ref="integrate">
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+    </file>
+    <file name="giphy icon_poster_.png" crc="4012180318" ref="integrate"/>
+    <file name="hilo-800.svg" crc="4062774332" seo="true" ref="integrate">
+      <caption webpage="integrate" alt=""/>
+    </file>
+    <file name="hilo 800_poster_.png" crc="310392611" ref="integrate"/>
+    <file name="hilo-480.svg" crc="4032153323" seo="true" ref="integrate">
+      <caption webpage="integrate" alt=""/>
+      <caption webpage="integrate" alt=""/>
+    </file>
+    <file name="hilo 480_poster_.png" crc="4132133347" ref="integrate"/>
   </folder>
-  <file name="index.html" crc="4062493469" seo="true" mt="1585874705071" redirect="true"/>
-  <file name="unete.html" crc="432892136" seo="true" mt="1585848882107" redirect="true"/>
-  <file name="empieza.html" crc="3843027075" seo="true" mt="1585848882107" redirect="true"/>
-  <file name="conoce-el-espacio.html" crc="111108665" seo="true" mt="1585863032954" redirect="true"/>
-  <file name="integrate.html" crc="4262245259" seo="true" mt="1585848882107" redirect="true"/>
+  <file name="index.html" crc="292645067" seo="true" mt="1585981912272" redirect="true"/>
+  <file name="unete.html" crc="157922027" seo="true" mt="1585981912272" redirect="true"/>
+  <file name="empieza.html" crc="3859624064" seo="true" mt="1585981912272" redirect="true"/>
+  <file name="conoce-el-espacio.html" crc="4216634062" seo="true" mt="1585981912272" redirect="true"/>
+  <file name="integrate.html" crc="254068390" seo="true" mt="1585981912272" redirect="true"/>
 </manifest>
