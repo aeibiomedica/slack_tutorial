@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sandra-mozombite-shishco.github.io/slack-ibm" resolutions="1x" timestamp="1586004255831">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sandra-mozombite-shishco.github.io/slack-ibm" resolutions="1x" timestamp="1586004482606">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="167230495" ref="index"/>
-    <file name="master_a-master.css" crc="4115321672" ref="integrate:empieza:index:unete:conoce-el-espacio"/>
-    <file name="nomq_preview_master_a-master.css" crc="53290808" ref="integrate:empieza:index:unete:conoce-el-espacio"/>
-    <file name="integrate.css" crc="46208987" ref="integrate"/>
+    <file name="index.css" crc="377631649" ref="index"/>
+    <file name="master_a-master.css" crc="3955106801" ref="integrate:empieza:index:unete:conoce-el-espacio"/>
+    <file name="nomq_preview_master_a-master.css" crc="64661946" ref="integrate:empieza:index:unete:conoce-el-espacio"/>
+    <file name="integrate.css" crc="379368619" ref="integrate"/>
     <file name="nomq_integrate.css" crc="4242932460" ref="integrate"/>
     <file name="empieza.css" crc="336217738" ref="empieza"/>
     <file name="nomq_empieza.css" crc="4217925859" ref="empieza"/>
@@ -102,7 +102,7 @@
       <caption webpage="empieza" alt=""/>
       <caption webpage="empieza" alt=""/>
     </file>
-    <file name="aeib logo_poster_.png" crc="4238105558" ref="index"/>
+    <file name="aeib logo_poster_.png" crc="4238105558" ref="index:integrate"/>
     <file name="messaging.svg" crc="3830149100" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -141,7 +141,7 @@
       <caption webpage="empieza" alt=""/>
       <caption webpage="empieza" alt=""/>
     </file>
-    <file name="ibm logo_poster_.png" crc="3966305656" ref="unete"/>
+    <file name="ibm logo_poster_.png" crc="3966305656" ref="unete:integrate"/>
     <file name="mail-icon.svg" crc="3858154883" seo="true" ref="unete">
       <caption webpage="unete" alt=""/>
       <caption webpage="unete" alt=""/>
@@ -442,7 +442,7 @@
       <caption webpage="empieza" alt=""/>
       <caption webpage="empieza" alt=""/>
     </file>
-    <file name="menu lineas negras_poster_.png" crc="35127084" ref="index"/>
+    <file name="menu lineas negras_poster_.png" crc="35127084" ref="index:integrate"/>
     <file name="icon-facebook.svg" crc="3965749504" seo="true" ref="index:unete:empieza:conoce-el-espacio:integrate">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -475,7 +475,7 @@
       <caption webpage="empieza" alt=""/>
       <caption webpage="empieza" alt=""/>
     </file>
-    <file name="icon-facebook_poster_.png" crc="463265434" ref="index"/>
+    <file name="icon-facebook_poster_.png" crc="463265434" ref="index:integrate"/>
     <file name="icon-correo.svg" crc="4057731373" seo="true" ref="index:unete:empieza:conoce-el-espacio:integrate">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -508,7 +508,7 @@
       <caption webpage="empieza" alt=""/>
       <caption webpage="empieza" alt=""/>
     </file>
-    <file name="icon-correo_poster_.png" crc="4240530182" ref="index"/>
+    <file name="icon-correo_poster_.png" crc="4240530182" ref="index:integrate"/>
     <file name="senal menu.gif" crc="3830976872" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -632,9 +632,9 @@
     </file>
     <file name="hilo 480_poster_.png" crc="4132133347" ref="integrate"/>
   </folder>
-  <file name="index.html" crc="4008501668" seo="true" mt="1586004231749" redirect="true"/>
+  <file name="index.html" crc="4257398198" seo="true" mt="1586004472842" redirect="true"/>
   <file name="unete.html" crc="247393258" seo="true" mt="1586004231749" redirect="true"/>
   <file name="empieza.html" crc="4279197870" seo="true" mt="1586004231749" redirect="true"/>
   <file name="conoce-el-espacio.html" crc="168966597" seo="true" mt="1586004231749" redirect="true"/>
-  <file name="integrate.html" crc="3915343336" seo="true" mt="1586004231749" redirect="true"/>
+  <file name="integrate.html" crc="174492593" seo="true" mt="1586004427066" redirect="true"/>
 </manifest>
